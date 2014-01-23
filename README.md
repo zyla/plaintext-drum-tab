@@ -44,3 +44,13 @@ Pretty cool if you want to quickly send an idea over SMS/IM, or even write somet
 
  * Make a case-insensitive variant, especially for paper users.
  * Cleaner syntax (this was invented on-the-fly), retaining common sense
+ * Maybe a positional notation is better?
+   The example shuffle would be thus encoded as follows (the comma totally needs to change meaning here): 
+
+        4/4.
+        H: 1 2 3 4,
+        B: 1 3,
+        S: 2 4
+
+   Then we need to choose some notation for subdivisions, e.g. triplets would be 1, 1i, 1j etc.
+    
