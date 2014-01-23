@@ -30,8 +30,8 @@ To encode a typical 4/4 rock shuffle:
 This can be easily pretty formatted for readability:
 
     4/4.
-    H: Q Q Q Q
-    B: H   H
+    H: Q Q Q Q,
+    B: H   H  ,
     S: q Q q Q
 
 But more importantly, it can be fit into just 20 characters:
